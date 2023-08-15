@@ -1,5 +1,8 @@
 _repo: When-the-tree-flowered-b-An-authentic-tale-of-the-old-Sioux-world_71247
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71247-h/images/cover.jpg
 creator:
   author:
     agent_name: Neihardt, John G.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6935
     wikipedia: https://en.wikipedia.org/wiki/John_Neihardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71247#When-the-tree-flowered-b-An-authentic-tale-of-the-old-Sioux-world
 gutenberg_issued: '2023-07-21'
 identifiers:
   gutenberg: '71247'
